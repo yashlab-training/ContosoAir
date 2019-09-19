@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/praveensrivastava/ContosoAir/_apis/build/status/yashlab-training.ContosoAir?branchName=master)](https://dev.azure.com/praveensrivastava/ContosoAir/_build/latest?definitionId=4&branchName=master)
 
 
 # Microsoft.Github CI Demo
